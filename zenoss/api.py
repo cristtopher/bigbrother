@@ -12,7 +12,7 @@ import urllib2
 
 ZENOSS_INSTANCE = 'http://192.168.1.119:8080'
 ZENOSS_USERNAME = 'admin'
-ZENOSS_PASSWORD = 'Cr15770ph3r!!'
+ZENOSS_PASSWORD = ''
 
 ROUTERS = { 'MessagingRouter': 'messaging',
             'EventsRouter': 'evconsole',
